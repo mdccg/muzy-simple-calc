@@ -38,7 +38,7 @@ Este foi o segundo repositório de código apresentado no [Curso Superior de TSI
 ## Galeria
 
 ![Tela inicial](./docs/home.jpg)
-![Calculadora de taxa de metabolismo basal](./docs/home-tmb.jpg)
+![Calculadora de taxa de metabolismo basal](./docs/tmb.jpg)
 ![Calculadora de calorias queimadas](./docs/carolinas.jpg)
 
 ## Como rodar
